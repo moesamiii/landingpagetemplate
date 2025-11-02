@@ -43,12 +43,12 @@ html {
 .logo-clinic {
   font-size: 24px; /* Adjust as needed */
   font-weight: bold;
-  color: #345d9d; /* Teal-like color from image */
+  color: #2e8695; /* Teal-like color from image */
 }
 
 .logo-arabic {
   font-size: 18px; /* Adjust as needed */
-  color: #345d9d; /* Teal-like color from image */
+  color: #2e8695; /* Teal-like color from image */
 }
 
 .hero-text p {
@@ -56,7 +56,7 @@ html {
   font-weight: bold;
   margin: 5px 0;
   line-height: 1.2;
-  color: #345d9d; /* Dark teal from image */
+  color: #2e8695; /* Dark teal from image */
 }
 
 /* Mobile specific styles */
@@ -138,13 +138,13 @@ html {
 /* Text Styling */
 .text-content h1 {
   font-size: 2.5rem;
-  color: #345d9d;
+  color: #2e8695;
   margin-bottom: 15px;
 }
 
 .text-content h2 {
   font-size: 1.8rem;
-  color: #345d9d;
+  color: #2e8695;
   margin-bottom: 25px;
 }
 
@@ -157,7 +157,7 @@ html {
 
 /* CTA Button */
 .cta-button {
-  background-color: #345d9d;
+  background-color: #2e8695;
   color: white;
   border: none;
   padding: 15px 40px;
@@ -254,7 +254,7 @@ html {
 }
 
 h1 {
-  color: #345d9d;
+  color: #2e8695;
   font-size: 1.8rem; /* Slightly smaller */
   margin-bottom: 15px;
 }
@@ -275,7 +275,7 @@ h1 {
 .form-group label {
   display: block;
   margin-bottom: 6px; /* Reduced */
-  color: #345d9d;
+  color: #2e8695;
   font-weight: 600;
   font-size: 0.9rem;
 }
@@ -296,13 +296,13 @@ h1 {
 
 .form-group input:focus,
 .form-group select:focus {
-  border-color: #345d9d;
+  border-color: #2e8695;
   outline: none;
   box-shadow: 0 0 0 3px rgba(80, 158, 154, 0.1);
 }
 
 .submit-btn {
-  background: #345d9d;
+  background: #2e8695;
   color: white;
   border: none;
   padding: 14px; /* Reduced padding */
@@ -432,7 +432,7 @@ h1 {
 }
 
 .booking-btn {
-  background: linear-gradient(135deg, #345d9d);
+  background: linear-gradient(135deg, #2e8695);
   color: white;
   border: none;
   padding: 12px 30px;
@@ -563,7 +563,7 @@ h1 {
 }
 
 .section-title {
-  color: #345d9d;
+  color: #2e8695;
   font-size: 2.2rem;
   font-weight: 700;
   white-space: nowrap;
@@ -616,13 +616,13 @@ h1 {
 }
 
 .step-content h3 {
-  color: #345d9d;
+  color: #2e8695;
   font-size: 1.4rem;
   margin-bottom: 8px;
 }
 
 .step-content p {
-  color: #345d9d;
+  color: #2e8695;
   font-size: 1rem;
   line-height: 1.6;
 }
@@ -710,7 +710,7 @@ h1 {
 
 .section-title {
   text-align: center;
-  color: #345d9d;
+  color: #2e8695;
   font-size: 2.2rem;
   margin-bottom: 40px;
   font-weight: 700;
@@ -762,7 +762,7 @@ h1 {
 }
 
 .info-content h3 {
-  color: #345d9d;
+  color: #2e8695;
   font-size: 1.3rem;
   margin-bottom: 10px;
 }
@@ -800,7 +800,7 @@ h1 {
 }
 
 .confident-footer {
-  background-color: #345d9d; /* light gray background */
+  background-color: #2e8695; /* light gray background */
   text-align: center;
   padding: 20px;
   font-size: 19px;
@@ -1011,7 +1011,7 @@ h1 {
 }
 
 .service-btn {
-  background: linear-gradient(135deg, #345d9d);
+  background: linear-gradient(135deg, #2e8695);
   color: white;
   border: none;
   padding: 10px 25px;
