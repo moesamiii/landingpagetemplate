@@ -974,7 +974,7 @@ h1 {
 .service-icon-circle {
   width: 80px;
   height: 80px;
-  background: linear-gradient(135deg, #3498db, #2c3e50);
+  background: linear-gradient(135deg, #168ea0, #2c3e50);
   border-radius: 50%;
   display: flex;
   align-items: center;
